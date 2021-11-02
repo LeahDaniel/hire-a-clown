@@ -1,0 +1,55 @@
+{
+    "reservations": [
+    {
+        "parentName": "Karen Daniel",
+        "childName": "Leah Daniel",
+        "numOfAttendees": "20",
+        "address": "123 Street",
+        "eventDate": "2021-11-22",
+        "eventLength": "5",
+        "id": 1
+    },
+    {
+        "parentName": "David Moon",
+        "childName": "Mitchell Moon",
+        "numOfAttendees": "30",
+        "address": "456 Street",
+        "eventDate": "2021-10-25",
+        "eventLength": "4",
+        "id": 2
+    },
+    {
+        "parentName": "Lilly Potter",
+        "childName": "Harry Potter",
+        "numOfAttendees": "4",
+        "address": "789 Street",
+        "eventDate": "2021-12-30",
+        "eventLength": "25",
+        "id": 3
+    }
+    ],
+    "clowns": [
+    {
+        "id": 1,
+        "name": "Buttons"
+    },
+    {
+        "id": 2,
+        "name": "Lollipop"
+    }
+    ],
+    "completedJobs": [
+    {
+        "reservationId": 1,
+        "clownId": 1,
+        "dateCreated": 1635193432565,
+        "id": 1
+    },
+    {
+        "reservationId": 2,
+        "clownId": 2,
+        "dateCreated": 1635193435527,
+        "id": 2
+    }
+    ]
+}
